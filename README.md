@@ -14,16 +14,16 @@ The Service is highly maintained and up-to-date.
 
 flyCaptcha is the ideal solution to build own services.
 
-In case you need a custom plan for higher-volume usage please send us a message on Telegram https://t.me/SteveJobsnihack
+In case you need a custom plan for higher-volume usage please send us a message on Telegram https://t.me/reversecoders
 
 ### 💬 Contact:
 
-E-Mail: stevejobsnihack@gmail.com <br>
+E-Mail: reversecoders@gmail.com <br>
 Website: https://flycaptcha.com <br>
-Telegram: https://t.me/SteveJobsnihack <br>
-Github: https://github.com/SteveJobsnihack/flyCaptcha <br>
-Gitlab: https://gitlab.com/SteveJobsnihack/flycaptcha <br>
-Rapidapi: https://rapidapi.com/SteveJobsnihack/api/flycaptcha <br>
+Telegram: https://t.me/reversecoders <br>
+Github: https://github.com/reversecoders2/flyCaptcha <br>
+Gitlab: https://gitlab.com/reversecoders/flycaptcha <br>
+Rapidapi: https://rapidapi.com/reversecoders/api/flycaptcha <br>
 YouTube: https://www.youtube.com/watch?v=c2pP8WFGtUg <br>
 
 ### Chinese
@@ -44,14 +44,14 @@ YouTube: https://www.youtube.com/watch?v=c2pP8WFGtUg <br>
 
 flyCaptcha 是构建自己的服务的理想解决方案。
 
-如果您需要更高容量的定制计划，请在 Telegram 上向我们发送消息 https://t.me/SteveJobsnihack
+如果您需要更高容量的定制计划，请在 Telegram 上向我们发送消息 https://t.me/reversecoders
 
 ### 💬 联系方式：
 
-电子邮件：stevejobsnihack@gmail.com <br>
+电子邮件：reversecoders@gmail.com <br>
 网站：https://flycaptcha.com <br>
-电报：https://t.me/SteveJobsnihack <br>
-Github：https://github.com/SteveJobsnihack/flyCaptcha <br>
-Gitlab: https://gitlab.com/SteveJobsnihack/flycaptcha <br>
-Rapidapi：https://rapidapi.com/SteveJobsnihack/api/flycaptcha <br>
+电报：https://t.me/reversecoders <br>
+Github：https://github.com/reversecoders2/flyCaptcha <br>
+Gitlab: https://gitlab.com/reversecoders/flycaptcha <br>
+Rapidapi：https://rapidapi.com/reversecoders/api/flycaptcha <br>
 YouTube: https://www.youtube.com/watch?v=c2pP8WFGtUg <br>
