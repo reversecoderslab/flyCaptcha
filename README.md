@@ -21,7 +21,7 @@ In case you need a custom plan for higher-volume usage please send us a message 
 E-Mail: reversecoders@gmail.com <br>
 Website: https://flycaptcha.com <br>
 Telegram: https://t.me/reversecoders <br>
-Github: https://github.com/reversecoders2/flyCaptcha <br>
+Github: https://github.com/reversecoderslab/flyCaptcha <br>
 Gitlab: https://gitlab.com/reversecoders/flycaptcha <br>
 Rapidapi: https://rapidapi.com/reversecoders/api/flycaptcha <br>
 YouTube: https://www.youtube.com/watch?v=c2pP8WFGtUg <br>
@@ -51,7 +51,7 @@ flyCaptcha 是构建自己的服务的理想解决方案。
 电子邮件：reversecoders@gmail.com <br>
 网站：https://flycaptcha.com <br>
 电报：https://t.me/reversecoders <br>
-Github：https://github.com/reversecoders2/flyCaptcha <br>
+Github：https://github.com/reversecoderslab/flyCaptcha <br>
 Gitlab: https://gitlab.com/reversecoders/flycaptcha <br>
 Rapidapi：https://rapidapi.com/reversecoders/api/flycaptcha <br>
 YouTube: https://www.youtube.com/watch?v=c2pP8WFGtUg <br>
