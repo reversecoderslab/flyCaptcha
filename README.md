@@ -1,5 +1,7 @@
 ## flyCaptcha
 
+### 🔥 Big announcement 🔥 : Since January 3rd, 2024, in addition to the Web Captcha Solver, we also support the full Captcha Solving and Verification Process for the TikTok Mobile App ‼️
+
 **The Number #1 TikTok Captcha Solving Service on RapidAPI.** We provide a highly maintained, up-to-date and scalable API based solution for many possible use cases and applications.
 
 Automatic captcha solving service, stably support for a single customer with an average of millions of calls per day.
