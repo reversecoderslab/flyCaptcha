@@ -1,4 +1,4 @@
-## flyCaptcha - (Discord server: https://discord.gg/qDDSzY9TPP)
+## flyCaptcha - (Support: https://t.me/reversecoders)
 
 ### 🔥 Big announcement 🔥 : Since January 3rd, 2024, in addition to the Web Captcha Solver, we also support the full Captcha Solving and Verification Process for the TikTok Mobile App ‼️
 
